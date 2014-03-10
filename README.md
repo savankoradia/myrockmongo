@@ -25,3 +25,7 @@ Bugs & Issues
 --------------------------------------
 Please feel free to report any bugs and issues to me, my email is: koradia.savan@gmail.com
 Blog: http://fedoracores.blogspot.com
+
+
+
+This is new changes.
